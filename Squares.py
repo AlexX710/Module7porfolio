@@ -1,7 +1,7 @@
 #Alex Flores
 #November 7, 2023
 #Problem 4 Squares
-# The code will create a square
+# The code will create a square.
 import turtle
 def drawSquare (t, size):
     for i in range (4):
